@@ -7,5 +7,5 @@ Currently based in Calgary, Canada, I'm working on exciting projects and constan
 ## 📫 How to reach me: <br/>
 Email: arnastasa7@gmail.com <br/><br/>
 Linkedin: https://linkedin.com/in/seunggyu-park   <br/><br/>
-Portfolio: https://seung-gyuu.github.io/portfolio/ <br/>
+Portfolio: [portfolio-ten-eta-94.vercel.app ](https://portfolio-ten-eta-94.vercel.app/)
 
